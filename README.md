@@ -1,5 +1,6 @@
 # File-Organiser
 A program to arrange the files on your system based on their file extension types.
+
 ![File Organizer Initial State](https://user-images.githubusercontent.com/105561324/206479205-690d1d62-8c23-4fe4-85da-f6a87ee36459.jpg)
 
 It only works on Windows devices.
